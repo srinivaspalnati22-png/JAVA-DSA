@@ -6,7 +6,18 @@ A comprehensive repository for mastering Java and Data Structures & Algorithms f
 
 ## 📁 Repository Structure
 
-### 1. 🔢 [BASICS_ON_DIGITS](./BASICS_ON_DIGITS/)
+### 1. ☕ [BASICOFJAVA+DSA](./BASICOFJAVA+DSA/)
+Foundational concepts of Java language architecture, execution lifecycle, and Data Structures & Algorithms.
+- **[01_What_Is_DSA.md](./BASICOFJAVA+DSA/01_What_Is_DSA.md)**: Data structures definition, linear vs non-linear vs hash-based, algorithms, and DSA learning roadmap.
+- **[02_What_Is_Java.md](./BASICOFJAVA+DSA/02_What_Is_Java.md)**: History of Java (1991 Oak $\rightarrow$ Java $\rightarrow$ Oracle), WORA, JVM/JIT/GC, enterprise uses, and 2026+ career outlook.
+- **[03_Java_Execution_Flow.md](./BASICOFJAVA+DSA/03_Java_Execution_Flow.md)**: Two-step compilation flow, Bytecode, JVM architecture, JRE vs JDK comparison, and the Golden Formula.
+- **[04_Our_First_Java_Program.md](./BASICOFJAVA+DSA/04_Our_First_Java_Program.md)**: Dissecting `HelloWorld`, `public class Main`, `public static void main(String[] args)`, and `System.out.println()`.
+- **[05_Variables_In_Java.md](./BASICOFJAVA+DSA/05_Variables_In_Java.md)**: Variables definition, memory allocation, syntax across types, naming rules, and mutability.
+- **Runnable Code**: [FirstProgram.java](./BASICOFJAVA+DSA/FirstProgram.java), [VariablesDemo.java](./BASICOFJAVA+DSA/VariablesDemo.java).
+
+---
+
+### 2. 🔢 [BASICS_ON_DIGITS](./BASICS_ON_DIGITS/)
 Comprehensive coverage of digit manipulation, number theory, prime numbers, cycles, and sequences.
 - **[Concepts.md](./BASICS_ON_DIGITS/Concepts.md)**: Notes, math formulas, and core digit manipulation prerequisites.
 - **[DigitConcepts.java](./BASICS_ON_DIGITS/DigitConcepts.java)**: Runnable Java implementation of core concepts.
@@ -35,7 +46,7 @@ Comprehensive coverage of digit manipulation, number theory, prime numbers, cycl
 
 ---
 
-### 2. 📦 [ARRAYS](./ARRAYS/)
+### 3. 📦 [ARRAYS](./ARRAYS/)
 Foundational memory concepts, syntax breakdown, indexing, and array algorithms in Java.
 - **[Concepts.md](./ARRAYS/Concepts.md)**: Detailed array lifecycle, memory addressing formulas, default values, traversal comparisons, and interview cheat sheet.
 - **[ArrayConcepts.java](./ARRAYS/ArrayConcepts.java)**: Runnable Java code demonstrating array manipulation, searches, and in-place reversal.
@@ -53,7 +64,7 @@ Foundational memory concepts, syntax breakdown, indexing, and array algorithms i
 
 ---
 
-### 3. 🧵 [STRINGS](./STRINGS/)
+### 4. 🧵 [STRINGS](./STRINGS/)
 In-depth concepts of Java Strings, memory models, immutability, String Constant Pool (SCP), comparison semantics, and mutable alternatives.
 - **[Concepts.md](./STRINGS/Concepts.md)**: Comprehensive notes covering String class architecture, String Pool memory layout, Immutability rationale, `==` vs `.equals()`, method index, `StringBuilder` vs `StringBuffer`, and DSA patterns.
 - **[StringConcepts.java](./STRINGS/StringConcepts.java)**: Executable Java program demonstrating pool behavior, immutability, comparisons, built-in methods, and `StringBuilder` mutations.
