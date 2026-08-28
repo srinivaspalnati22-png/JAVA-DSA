@@ -53,7 +53,12 @@ Foundational memory concepts, syntax breakdown, indexing, and array algorithms i
 
 ---
 
-## 🛠️ How to Compile & Run
+### 3. 🧵 [STRINGS](./STRINGS/)
+In-depth concepts of Java Strings, memory models, immutability, String Constant Pool (SCP), comparison semantics, and mutable alternatives.
+- **[Concepts.md](./STRINGS/Concepts.md)**: Comprehensive notes covering String class architecture, String Pool memory layout, Immutability rationale, `==` vs `.equals()`, method index, `StringBuilder` vs `StringBuffer`, and DSA patterns.
+- **[StringConcepts.java](./STRINGS/StringConcepts.java)**: Executable Java program demonstrating pool behavior, immutability, comparisons, built-in methods, and `StringBuilder` mutations.
+
+---
 
 To compile and run any Java file:
 ```bash
