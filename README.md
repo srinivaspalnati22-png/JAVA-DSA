@@ -13,7 +13,12 @@ Foundational concepts of Java language architecture, execution lifecycle, and Da
 - **[03_Java_Execution_Flow.md](./BASICOFJAVA+DSA/03_Java_Execution_Flow.md)**: Two-step compilation flow, Bytecode, JVM architecture, JRE vs JDK comparison, and the Golden Formula.
 - **[04_Our_First_Java_Program.md](./BASICOFJAVA+DSA/04_Our_First_Java_Program.md)**: Dissecting `HelloWorld`, `public class Main`, `public static void main(String[] args)`, and `System.out.println()`.
 - **[05_Variables_In_Java.md](./BASICOFJAVA+DSA/05_Variables_In_Java.md)**: Variables definition, memory allocation, syntax across types, naming rules, and mutability.
-- **Runnable Code**: [FirstProgram.java](./BASICOFJAVA+DSA/FirstProgram.java), [VariablesDemo.java](./BASICOFJAVA+DSA/VariablesDemo.java).
+- **[06_Data_Types_In_Java.md](./BASICOFJAVA+DSA/06_Data_Types_In_Java.md)**: 8 Primitives vs Reference types, Two's complement range formula, `float` vs `double`, wrapper classes.
+- **[07_Java_Operators.md](./BASICOFJAVA+DSA/07_Java_Operators.md)**: Arithmetic, assignment, comparison, and logical operators (`&&`, `||`, `!`) with truth tables.
+- **[08_Type_Casting_In_Java.md](./BASICOFJAVA+DSA/08_Type_Casting_In_Java.md)**: Widening vs narrowing casting, expression promotion rules, ASCII conversion, and overflow handling.
+- **[09_Conditionals_In_Java.md](./BASICOFJAVA+DSA/09_Conditionals_In_Java.md)**: `if`, `if-else`, `else-if` ladders, nested decisions, ternary operator (`?:`), and `switch` statements.
+- **[10_Loops_In_Java.md](./BASICOFJAVA+DSA/10_Loops_In_Java.md)**: `for`, `while`, `do-while`, enhanced `for-each`, `break`/`continue` loop control, and infinite loop prevention.
+- **Runnable Code**: [FirstProgram.java](./BASICOFJAVA+DSA/FirstProgram.java), [VariablesDemo.java](./BASICOFJAVA+DSA/VariablesDemo.java), [DataTypesDemo.java](./BASICOFJAVA+DSA/DataTypesDemo.java), [OperatorsDemo.java](./BASICOFJAVA+DSA/OperatorsDemo.java), [TypeCastingDemo.java](./BASICOFJAVA+DSA/TypeCastingDemo.java), [ConditionalsDemo.java](./BASICOFJAVA+DSA/ConditionalsDemo.java), [LoopsDemo.java](./BASICOFJAVA+DSA/LoopsDemo.java).
 
 ---
 
@@ -68,6 +73,12 @@ Foundational memory concepts, syntax breakdown, indexing, and array algorithms i
 In-depth concepts of Java Strings, memory models, immutability, String Constant Pool (SCP), comparison semantics, and mutable alternatives.
 - **[Concepts.md](./STRINGS/Concepts.md)**: Comprehensive notes covering String class architecture, String Pool memory layout, Immutability rationale, `==` vs `.equals()`, method index, `StringBuilder` vs `StringBuffer`, and DSA patterns.
 - **[StringConcepts.java](./STRINGS/StringConcepts.java)**: Executable Java program demonstrating pool behavior, immutability, comparisons, built-in methods, and `StringBuilder` mutations.
+- **5 Solved String Problems**:
+  - GFG: Last Index of One
+  - GFG: Palindrome String
+  - GFG: Reverse a String
+  - LC 58: Length of Last Word
+  - GFG: Java Convert String to Lowercase
 
 ---
 
