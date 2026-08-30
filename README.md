@@ -18,7 +18,8 @@ Foundational concepts of Java language architecture, execution lifecycle, and Da
 - **[08_Type_Casting_In_Java.md](./BASICOFJAVA+DSA/08_Type_Casting_In_Java.md)**: Widening vs narrowing casting, expression promotion rules, ASCII conversion, and overflow handling.
 - **[09_Conditionals_In_Java.md](./BASICOFJAVA+DSA/09_Conditionals_In_Java.md)**: `if`, `if-else`, `else-if` ladders, nested decisions, ternary operator (`?:`), and `switch` statements.
 - **[10_Loops_In_Java.md](./BASICOFJAVA+DSA/10_Loops_In_Java.md)**: `for`, `while`, `do-while`, enhanced `for-each`, `break`/`continue` loop control, and infinite loop prevention.
-- **Runnable Code**: [FirstProgram.java](./BASICOFJAVA+DSA/FirstProgram.java), [VariablesDemo.java](./BASICOFJAVA+DSA/VariablesDemo.java), [DataTypesDemo.java](./BASICOFJAVA+DSA/DataTypesDemo.java), [OperatorsDemo.java](./BASICOFJAVA+DSA/OperatorsDemo.java), [TypeCastingDemo.java](./BASICOFJAVA+DSA/TypeCastingDemo.java), [ConditionalsDemo.java](./BASICOFJAVA+DSA/ConditionalsDemo.java), [LoopsDemo.java](./BASICOFJAVA+DSA/LoopsDemo.java).
+- **[11_Inputs_And_Outputs_In_Java.md](./BASICOFJAVA+DSA/11_Inputs_And_Outputs_In_Java.md)**: Standard streams (`in`, `out`, `err`), `print`/`println`/`printf` formatting, `Scanner` input methods, nextLine newline trap, and fast I/O with `BufferedReader`.
+- **Runnable Code**: [FirstProgram.java](./BASICOFJAVA+DSA/FirstProgram.java), [VariablesDemo.java](./BASICOFJAVA+DSA/VariablesDemo.java), [DataTypesDemo.java](./BASICOFJAVA+DSA/DataTypesDemo.java), [OperatorsDemo.java](./BASICOFJAVA+DSA/OperatorsDemo.java), [TypeCastingDemo.java](./BASICOFJAVA+DSA/TypeCastingDemo.java), [ConditionalsDemo.java](./BASICOFJAVA+DSA/ConditionalsDemo.java), [LoopsDemo.java](./BASICOFJAVA+DSA/LoopsDemo.java), [InputOutputDemo.java](./BASICOFJAVA+DSA/InputOutputDemo.java).
 
 ---
 

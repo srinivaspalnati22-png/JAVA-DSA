@@ -18,6 +18,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 | **08** | [08_Type_Casting_In_Java.md](./08_Type_Casting_In_Java.md) | Widening (Implicit) vs Narrowing (Explicit) casting, Type promotion rules, Char $\leftrightarrow$ ASCII conversion, Truncation & Byte overflow wraparound. |
 | **09** | [09_Conditionals_In_Java.md](./09_Conditionals_In_Java.md) | Decision making in Java, Simple `if`, `if-else`, `else-if` ladder, Nested `if`, Ternary operator `?:`, `switch` statements, Decision guide. |
 | **10** | [10_Loops_In_Java.md](./10_Loops_In_Java.md) | Why loops are needed, `for`, `while`, `do-while`, enhanced `for-each` loop, `break` & `continue` control flow, Infinite loops & prevention best practices. |
+| **11** | [11_Inputs_And_Outputs_In_Java.md](./11_Inputs_And_Outputs_In_Java.md) | Standard streams (`in`, `out`, `err`), `print`/`println`/`printf` formatting, `Scanner` input methods, nextLine newline trap, fast I/O with `BufferedReader` & `StringTokenizer`. |
 
 ---
 
@@ -30,6 +31,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 - **[TypeCastingDemo.java](./TypeCastingDemo.java)**: Widening vs narrowing casting, expression promotions, ASCII conversions, and overflow wrapping.
 - **[ConditionalsDemo.java](./ConditionalsDemo.java)**: Execution branching across `if`, `if-else`, `else-if`, ternary operator, and `switch` matching.
 - **[LoopsDemo.java](./LoopsDemo.java)**: Loop iterations across `for`, `while`, `do-while`, enhanced `for-each`, and `break`/`continue` flow control.
+- **[InputOutputDemo.java](./InputOutputDemo.java)**: Output stream printing, formatted flags, escape sequences, `Scanner` token parsing, newline handling, and `BufferedReader` fast input.
 
 ---
 
@@ -45,4 +47,5 @@ java BASICOFJAVA+DSA.OperatorsDemo
 java BASICOFJAVA+DSA.TypeCastingDemo
 java BASICOFJAVA+DSA.ConditionalsDemo
 java BASICOFJAVA+DSA.LoopsDemo
+java BASICOFJAVA+DSA.InputOutputDemo
 ```
