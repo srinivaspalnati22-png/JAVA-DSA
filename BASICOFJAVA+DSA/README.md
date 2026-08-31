@@ -19,6 +19,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 | **09** | [09_Conditionals_In_Java.md](./09_Conditionals_In_Java.md) | Decision making in Java, Simple `if`, `if-else`, `else-if` ladder, Nested `if`, Ternary operator `?:`, `switch` statements, Decision guide. |
 | **10** | [10_Loops_In_Java.md](./10_Loops_In_Java.md) | Why loops are needed, `for`, `while`, `do-while`, enhanced `for-each` loop, `break` & `continue` control flow, Infinite loops & prevention best practices. |
 | **11** | [11_Inputs_And_Outputs_In_Java.md](./11_Inputs_And_Outputs_In_Java.md) | Standard streams (`in`, `out`, `err`), `print`/`println`/`printf` formatting, `Scanner` input methods, nextLine newline trap, fast I/O with `BufferedReader` & `StringTokenizer`. |
+| **12** | [12_Methods_In_Java.md](./12_Methods_In_Java.md) | Methods in Java, Syntax & anatomy (`public static void`), Four types of methods, Method overloading, Recursion & base cases, JVM call stack & StackOverflowError, Best practices. |
 
 ---
 
@@ -32,6 +33,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 - **[ConditionalsDemo.java](./ConditionalsDemo.java)**: Execution branching across `if`, `if-else`, `else-if`, ternary operator, and `switch` matching.
 - **[LoopsDemo.java](./LoopsDemo.java)**: Loop iterations across `for`, `while`, `do-while`, enhanced `for-each`, and `break`/`continue` flow control.
 - **[InputOutputDemo.java](./InputOutputDemo.java)**: Output stream printing, formatted flags, escape sequences, `Scanner` token parsing, newline handling, and `BufferedReader` fast input.
+- **[MethodsDemo.java](./MethodsDemo.java)**: Four types of methods, compile-time method overloading, recursion countdown & factorial, and JVM call stack visualization.
 
 ---
 
@@ -48,4 +50,5 @@ java BASICOFJAVA+DSA.TypeCastingDemo
 java BASICOFJAVA+DSA.ConditionalsDemo
 java BASICOFJAVA+DSA.LoopsDemo
 java BASICOFJAVA+DSA.InputOutputDemo
+java BASICOFJAVA+DSA.MethodsDemo
 ```
