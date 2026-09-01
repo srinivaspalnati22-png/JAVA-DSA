@@ -20,6 +20,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 | **10** | [10_Loops_In_Java.md](./10_Loops_In_Java.md) | Why loops are needed, `for`, `while`, `do-while`, enhanced `for-each` loop, `break` & `continue` control flow, Infinite loops & prevention best practices. |
 | **11** | [11_Inputs_And_Outputs_In_Java.md](./11_Inputs_And_Outputs_In_Java.md) | Standard streams (`in`, `out`, `err`), `print`/`println`/`printf` formatting, `Scanner` input methods, nextLine newline trap, fast I/O with `BufferedReader` & `StringTokenizer`. |
 | **12** | [12_Methods_In_Java.md](./12_Methods_In_Java.md) | Methods in Java, Syntax & anatomy (`public static void`), Four types of methods, Method overloading, Recursion & base cases, JVM call stack & StackOverflowError, Best practices. |
+| **13** | [13_Time_And_Space_Complexity.md](./13_Time_And_Space_Complexity.md) | Asymptotic Notations (Big-O, Ω, Θ), Rules of calculation, Complexity hierarchy ($O(1)$ to $O(N!)$), Code patterns, Auxiliary vs Input Space, Java traps, 1-second rule & constraint mapping. |
 
 ---
 
@@ -34,6 +35,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 - **[LoopsDemo.java](./LoopsDemo.java)**: Loop iterations across `for`, `while`, `do-while`, enhanced `for-each`, and `break`/`continue` flow control.
 - **[InputOutputDemo.java](./InputOutputDemo.java)**: Output stream printing, formatted flags, escape sequences, `Scanner` token parsing, newline handling, and `BufferedReader` fast input.
 - **[MethodsDemo.java](./MethodsDemo.java)**: Four types of methods, compile-time method overloading, recursion countdown & factorial, and JVM call stack visualization.
+- **[ComplexityDemo.java](./ComplexityDemo.java)**: Practical benchmarks across $O(1)$, $O(\log N)$, $O(N)$, $O(N^2)$, String vs StringBuilder trap, and in-place vs buffer memory.
 
 ---
 
@@ -51,4 +53,5 @@ java BASICOFJAVA+DSA.ConditionalsDemo
 java BASICOFJAVA+DSA.LoopsDemo
 java BASICOFJAVA+DSA.InputOutputDemo
 java BASICOFJAVA+DSA.MethodsDemo
+java BASICOFJAVA+DSA.ComplexityDemo
 ```
