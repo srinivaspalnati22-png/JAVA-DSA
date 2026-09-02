@@ -21,6 +21,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 | **11** | [11_Inputs_And_Outputs_In_Java.md](./11_Inputs_And_Outputs_In_Java.md) | Standard streams (`in`, `out`, `err`), `print`/`println`/`printf` formatting, `Scanner` input methods, nextLine newline trap, fast I/O with `BufferedReader` & `StringTokenizer`. |
 | **12** | [12_Methods_In_Java.md](./12_Methods_In_Java.md) | Methods in Java, Syntax & anatomy (`public static void`), Four types of methods, Method overloading, Recursion & base cases, JVM call stack & StackOverflowError, Best practices. |
 | **13** | [13_Time_And_Space_Complexity.md](./13_Time_And_Space_Complexity.md) | Asymptotic Notations (Big-O, Ω, Θ), Rules of calculation, Complexity hierarchy ($O(1)$ to $O(N!)$), Code patterns, Auxiliary vs Input Space, Java traps, 1-second rule & constraint mapping. |
+| **14** | [14_Linear_Search.md](./14_Linear_Search.md) | Linear search intuition, Step-by-step visual trace, 1D/2D arrays, Strings, Range bounds, Min/Max finding, Multi-occurrences, $O(1)$ to $O(N)$ complexity, Linear vs Binary Search, Pitfalls, LeetCode problems. |
 
 ---
 
@@ -36,6 +37,7 @@ Welcome to the foundational module for Java programming and Data Structures & Al
 - **[InputOutputDemo.java](./InputOutputDemo.java)**: Output stream printing, formatted flags, escape sequences, `Scanner` token parsing, newline handling, and `BufferedReader` fast input.
 - **[MethodsDemo.java](./MethodsDemo.java)**: Four types of methods, compile-time method overloading, recursion countdown & factorial, and JVM call stack visualization.
 - **[ComplexityDemo.java](./ComplexityDemo.java)**: Practical benchmarks across $O(1)$, $O(\log N)$, $O(N)$, $O(N^2)$, String vs StringBuilder trap, and in-place vs buffer memory.
+- **[LinearSearchDemo.java](./LinearSearchDemo.java)**: Comprehensive linear search across 1D arrays, boolean checks, strings, bounded ranges, min/max finding, 2D matrices, all occurrences, and LeetCode problems.
 
 ---
 
@@ -54,4 +56,5 @@ java BASICOFJAVA+DSA.LoopsDemo
 java BASICOFJAVA+DSA.InputOutputDemo
 java BASICOFJAVA+DSA.MethodsDemo
 java BASICOFJAVA+DSA.ComplexityDemo
+java BASICOFJAVA+DSA.LinearSearchDemo
 ```
