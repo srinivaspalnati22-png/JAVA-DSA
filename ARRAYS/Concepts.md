@@ -164,4 +164,6 @@ In Java, arrays are **NOT** primitive types—they are **Objects** stored in Hea
 | **08** | [Problem08_ProductOfArrayElements.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem08_ProductOfArrayElements.java) | [Product of Array Element](https://www.geeksforgeeks.org/problems/product-of-array-element/1) | Modulo Arithmetic Multiplication |
 | **09** | [Problem09_SearchElement.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem09_SearchElement.java) | [Search an Element in an Array](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Linear Search ($O(n)$) |
 | **10** | [Problem10_ReverseArray.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem10_ReverseArray.java) | [Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Two-Pointer In-Place Swap ($O(1)$ Space) |
+| **11** | [Problem11_SecondLargest.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem11_SecondLargest.java) | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Optimal Single-Pass Track Largest & 2nd Largest ($O(n)$) |
+
 

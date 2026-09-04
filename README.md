@@ -60,7 +60,7 @@ Comprehensive coverage of digit manipulation, number theory, prime numbers, cycl
 Foundational memory concepts, syntax breakdown, indexing, and array algorithms in Java.
 - **[Concepts.md](./ARRAYS/Concepts.md)**: Detailed array lifecycle, memory addressing formulas, default values, traversal comparisons, and interview cheat sheet.
 - **[ArrayConcepts.java](./ARRAYS/ArrayConcepts.java)**: Runnable Java code demonstrating array manipulation, searches, and in-place reversal.
-- **10 Solved GeeksforGeeks Problems**:
+- **11 Solved GeeksforGeeks Problems**:
   - GFG: Largest Element in Array
   - GFG: Sum of Array Elements
   - GFG: Mean of an Array
@@ -71,6 +71,7 @@ Foundational memory concepts, syntax breakdown, indexing, and array algorithms i
   - GFG: Product of Array Elements
   - GFG: Search an Element in an Array
   - GFG: Reverse an Array (In-Place Two Pointers)
+  - GFG: Second Largest Element
 
 ---
 
