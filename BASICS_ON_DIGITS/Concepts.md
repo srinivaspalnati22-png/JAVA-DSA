@@ -64,7 +64,7 @@ To append a `digit` to an existing number `num`:
 
 ---
 
-## 📚 Problem Index & LeetCode References (21 Problems)
+## 📚 Problem Index & LeetCode References (22 Problems)
 
 | # | Problem Name | LeetCode URL | Key Concept / Technique |
 |---|---|---|---|
@@ -89,4 +89,5 @@ To append a `digit` to an existing number `num`:
 | **19** | [Problem19_SqrtX.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/BASICS_ON_DIGITS/Problem19_SqrtX.java) | [LC 69](https://leetcode.com/problems/sqrtx/) | Integer Square Root & Binary Search |
 | **20** | [Problem20_HarshadNumber.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/BASICS_ON_DIGITS/Problem20_HarshadNumber.java) | [LC 3099](https://leetcode.com/problems/harshad-number/) | Digit Sum & Harshad Divisibility Test |
 | **21** | [Problem21_PerfectNumber.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/BASICS_ON_DIGITS/Problem21_PerfectNumber.java) | [LC 507](https://leetcode.com/problems/perfect-number/) | Divisor Summation & $O(\sqrt{n})$ Pairing |
+| **22** | [Problem22_FindNumbersWithEvenNumberOfDigits.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/BASICS_ON_DIGITS/Problem22_FindNumbersWithEvenNumberOfDigits.java) | [LC 1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Digit Count Parity (Division / $\log_{10}$ / Range Check) |
 
