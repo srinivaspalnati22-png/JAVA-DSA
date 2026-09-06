@@ -166,6 +166,8 @@ In Java, arrays are **NOT** primitive types—they are **Objects** stored in Hea
 | **10** | [Problem10_ReverseArray.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem10_ReverseArray.java) | [Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Two-Pointer In-Place Swap ($O(1)$ Space) |
 | **11** | [Problem11_SecondLargest.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem11_SecondLargest.java) | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Optimal Single-Pass Track Largest & 2nd Largest ($O(n)$) |
 | **12** | [Problem12_FindHighestAltitude.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem12_FindHighestAltitude.java) | [LC 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Prefix Sum & Running Altitude Maximum ($O(n)$ time, $O(1)$ space) |
+| **13** | [Problem13_FindPivotIndex.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem13_FindPivotIndex.java) | [LC 724: Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Total Sum & Running Left Sum ($O(n)$ time, $O(1)$ space) |
+
 
 
 
