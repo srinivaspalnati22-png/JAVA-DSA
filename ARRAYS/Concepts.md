@@ -167,7 +167,6 @@ In Java, arrays are **NOT** primitive types—they are **Objects** stored in Hea
 | **11** | [Problem11_SecondLargest.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem11_SecondLargest.java) | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Optimal Single-Pass Track Largest & 2nd Largest ($O(n)$) |
 | **12** | [Problem12_FindHighestAltitude.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem12_FindHighestAltitude.java) | [LC 1732: Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Prefix Sum & Running Altitude Maximum ($O(n)$ time, $O(1)$ space) |
 | **13** | [Problem13_FindPivotIndex.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem13_FindPivotIndex.java) | [LC 724: Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Total Sum & Running Left Sum ($O(n)$ time, $O(1)$ space) |
-
-
-
-
+| **14** | [Problem14_LowerBound.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem14_LowerBound.java) | [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | Binary Search Smallest Index with `arr[i] >= target` ($O(\log n)$) |
+| **15** | [Problem15_UpperBound.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem15_UpperBound.java) | [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | Binary Search Smallest Index with `arr[i] > target` ($O(\log n)$) |
+| **16** | [Problem16_FloorInSortedArray.java](file:///c:/Users/srini/OneDrive/Desktop/JAVA+DSA/ARRAYS/Problem16_FloorInSortedArray.java) | [Floor in a Sorted Array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | Binary Search Largest Index with `arr[i] <= x` ($O(\log n)$) |
