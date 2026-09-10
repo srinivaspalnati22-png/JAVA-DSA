@@ -31,7 +31,7 @@ Foundational concepts of Java language architecture, execution lifecycle, and Da
 Comprehensive coverage of digit manipulation, number theory, prime numbers, cycles, and sequences.
 - **[Concepts.md](./BASICS_ON_DIGITS/Concepts.md)**: Notes, math formulas, and core digit manipulation prerequisites.
 - **[DigitConcepts.java](./BASICS_ON_DIGITS/DigitConcepts.java)**: Runnable Java implementation of core concepts.
-- **21 Solved LeetCode Problems** with detailed intuition, complexities, and test cases:
+- **23 Solved LeetCode Problems** with detailed intuition, complexities, and test cases:
   - LC 2413: Smallest Even Multiple
   - LC 1952: Three Divisors
   - LC 7: Reverse Integer
@@ -53,6 +53,8 @@ Comprehensive coverage of digit manipulation, number theory, prime numbers, cycl
   - LC 69: Sqrt(x)
   - LC 3099: Harshad Number
   - LC 507: Perfect Number
+  - LC 1295: Find Numbers with Even Number of Digits
+  - LC 374: Guess Number Higher or Lower
 
 ---
 
