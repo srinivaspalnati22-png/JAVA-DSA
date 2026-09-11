@@ -31,7 +31,7 @@ Foundational concepts of Java language architecture, execution lifecycle, and Da
 Comprehensive coverage of digit manipulation, number theory, prime numbers, cycles, and sequences.
 - **[Concepts.md](./BASICS_ON_DIGITS/Concepts.md)**: Notes, math formulas, and core digit manipulation prerequisites.
 - **[DigitConcepts.java](./BASICS_ON_DIGITS/DigitConcepts.java)**: Runnable Java implementation of core concepts.
-- **23 Solved LeetCode Problems** with detailed intuition, complexities, and test cases:
+- **24 Solved LeetCode Problems** with detailed intuition, complexities, and test cases:
   - LC 2413: Smallest Even Multiple
   - LC 1952: Three Divisors
   - LC 7: Reverse Integer
@@ -55,6 +55,7 @@ Comprehensive coverage of digit manipulation, number theory, prime numbers, cycl
   - LC 507: Perfect Number
   - LC 1295: Find Numbers with Even Number of Digits
   - LC 374: Guess Number Higher or Lower
+  - LC 278: First Bad Version
 
 ---
 
@@ -62,7 +63,7 @@ Comprehensive coverage of digit manipulation, number theory, prime numbers, cycl
 Foundational memory concepts, syntax breakdown, indexing, and array algorithms in Java.
 - **[Concepts.md](./ARRAYS/Concepts.md)**: Detailed array lifecycle, memory addressing formulas, default values, traversal comparisons, and interview cheat sheet.
 - **[ArrayConcepts.java](./ARRAYS/ArrayConcepts.java)**: Runnable Java code demonstrating array manipulation, searches, and in-place reversal.
-- **19 Solved Array Problems (LeetCode & GeeksforGeeks)**:
+- **22 Solved Array Problems (LeetCode & GeeksforGeeks)**:
   - GFG: Largest Element in Array
   - GFG: Sum of Array Elements
   - GFG: Mean of an Array
@@ -82,6 +83,9 @@ Foundational memory concepts, syntax breakdown, indexing, and array algorithms i
   - GFG: Ceil in a Sorted Array (Binary Search)
   - GFG: Floor and Ceil in Unsorted Array
   - LC 35: Search Insert Position (Binary Search)
+  - GFG: Index of First 1 in a Sorted Array (Binary Search)
+  - LC 34: Find First and Last Position of Element in Sorted Array (Binary Search)
+  - LC 744: Find Smallest Letter Greater Than Target (Binary Search)
 
 ---
 
